@@ -7,13 +7,7 @@
       "scriptwriter": "Juan Diaz Canales",
       "illustrator": "Juanjo Guarnido",
       "publisher": "Dargaud",
-      "albums": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ]
+      "albums": [1, 2, 3, 4, 5]
     },
     {
       "id": 2,
@@ -30,14 +24,6 @@
       "scriptwriter": "Katsuhiro Otomo",
       "illustrator": "Katsuhiro Otomo",
       "publisher": "Epic Comics"
-    },
-    {
-      "title": "super mus de moi",
-      "scriptwriter": "jph",
-      "illustrator": "cri",
-      "publisher": "fabrounet",
-      "isFavorite": true,
-      "id": 4
     }
   ],
   "albums": [
